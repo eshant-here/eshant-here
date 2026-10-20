@@ -5,7 +5,7 @@
 ### `Student` · `Builder` · `Curious Explorer`
 
 <a href="https://github.com/eshant-here">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=First-year+student;Haldia+Institute+of+Technology;Learning+to+build+with+code;Exploring+the+world+of+technology;One+project+at+a+time+%F0%9F%8C%B1" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=First-year+student;Haldia+Institute+of+Technology;Learning+to+build+with+code;Exploring+the+world+of+technology;+%F0%9F%8C%B1" alt="Typing introduction" />
 </a>
 
 <p>
