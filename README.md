@@ -48,6 +48,14 @@ Right now, I'm building my fundamentals, writing small programs, and exploring d
 
 **HIT College 1st Sem C Program** — a collection of C programs and practice exercises from my first semester. It represents where my programming journey begins.
 
+## 🌍 Open-source contributions
+
+<a href="https://kestra.io/community?from=github-badge">
+  <img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="First pull request merged in Kestra" />
+</a>
+
+My first pull request was merged into **Kestra**, an open-source workflow orchestration platform. I'm excited to keep learning, contributing, and growing through open source.
+
 ## 🧭 What I'm working toward
 
 - [x] Start building a strong programming foundation
@@ -55,7 +63,7 @@ Right now, I'm building my fundamentals, writing small programs, and exploring d
 - [ ] Practise problem solving consistently
 - [ ] Build my first complete web project
 - [ ] Learn data structures and algorithms
-- [ ] Make my first open-source contribution
+- [x] Make my first open-source contribution
 
 ## 📊 A small snapshot
 
